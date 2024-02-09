@@ -52,7 +52,7 @@ function data(result, word){
             }
         }
     }
-}
+};
 
 function search(word){
     fetchApi(word);
