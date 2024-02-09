@@ -15,7 +15,10 @@ function data(result, word){
         phontetics = `${result[0].meanings[0].partOfSpeech}  /${result[0].phonetics[0].text}/`;
         document.querySelector(".word p").innerText = result[0].word;
         document.querySelector(".word span").innerText = phontetics.split("/")[0];
-        document.querySelector(".meaning span").innerText = definitions.definition;
+        let mean_th;
+        fetch('https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=th&dt=t&q='+definitions.definition, {method: 'GET',headers: {'Accept': 'application/json',},})
+            .then(response => response.json())
+            .then(response => document.querySelector(".meaning span").innerText = definitions.definition + "\n" + response[0][0][0]);
         document.querySelector(".example span").innerText = definitions.example;
         audio = new Audio(result[0].phonetics[0].audio);
 
