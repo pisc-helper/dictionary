@@ -6,26 +6,6 @@ synonyms = wrapper.querySelector(".synonyms .list"),
 removeIcon = wrapper.querySelector(".search span");
 let audio;
 
-const translateElement = async element => {
-    const
-        elementNode = element.childNodes[0],
-        sourceText = elementNode && elementNode.nodeValue;
-
-    if (sourceText) 
-        try {
-            const
-                url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=th&dt=t&q=' + sourceText,
-                resultJson = await fetch(url),
-                result = await resultJson.json(),
-                translatedText = result[0][0][0].split(', ');
-
-            elementNode.nodeValue = translatedText;
-        } catch (error) {
-            console.error(error);
-        }
-    }
-}
-
 function data(result, word){
     if(result.title){
         infoText.innerHTML = `Can't find the meaning of <span>"${word}"</span>. Please, try to search for another word.`;
@@ -36,7 +16,6 @@ function data(result, word){
         document.querySelector(".word p").innerText = result[0].word;
         document.querySelector(".word span").innerText = phontetics.split("//")[0];
         document.querySelector(".meaning span").innerText = definitions.definition;
-        document.querySelector(".meaning span").innerText += "\n" + (async () => await translateElement(document.querySelector(".meaning span").innerText))();
         document.querySelector(".example span").innerText = definitions.example;
         audio = new Audio(result[0].phonetics[0].audio);
 
