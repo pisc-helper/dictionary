@@ -85,7 +85,7 @@
 | independent variable | N      | ตัวแปรอิสระ           | Variable not influenced |
 | dependent variable   | N      | ตัวแปรตาม             | Variable that changes   |
 | control variable     | N      | ตัวแปรควบคุม          | Variable held constant  |
-| kind of           | Adj/Phrase | ชนิด                  | Sort of; Type of        |
+| kind of           | Adj/Phr | ชนิด                  | Sort of; Type of        |
 | duration          | N           | ระยะเวลา              | Length of time          |
 | conclude          | V           | สรุป                   | Deduce; Conclude        |
 | thermal radiant   | Adj/N | รังสีความร้อน         | Emitting heat; Radiation |
