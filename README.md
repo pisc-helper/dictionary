@@ -70,7 +70,7 @@
 | contract          | V           | ลด; สัญญา              | Reduce; Agreement       |
 | conical flask     | N           | กระติกทรงกรวย        | Conical container       |
 | liquid nitrogen   | N           | ไนโตรเจนเหลว           | Liquid form of nitrogen |
-| blow up           | V/Phrasal   | ระเบิด; พองขึ้น        | Explode; Inflate        |
+| blow up           | V/Phr   | ระเบิด; พองขึ้น        | Explode; Inflate        |
 | several           | Det    | หลาย; รวมกัน           | Many; Various           |
 | stretch           | V/N      | ยืด; การยืด           | Extend; Stretching      |
 | basin             | N           | อ่างล้าง               | Sink; Basin             |
