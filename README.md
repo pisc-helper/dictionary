@@ -1,95 +1,123 @@
-| Vocabulary        | Part of Speech | Thai Meaning           | English Meaning        |
-|-------------------|----------------|------------------------|------------------------|
-| above             | Prep    | ติดอยู่ด้านบน        | Higher than; Over      |
-| needs             | N/V      | ความต้องการ/ต้องการ | Requirements/Necessitates |
-| unmoving          | Adj      | นิ่งไม่เคลื่อนไหว     | Stationary; Still       |
-| medium            | N/Adj | สื่อ; ปริมาณกลาง    | Substance; Average      |
-| through           | Prep/Adv | ผ่าน      | Moving from one side to another;    |
-| potassium permanganate | N  | โพแทสเซียมเพอร์มางเนต | Chemical compound      |
-| fill              | V           | เติม; ช่วยเติม       | Occupy; Complete        |
-| around            | Adv/Prep | รอบ ๆ; ใกล้ๆ       | Surrounding; Nearby     |
-| observe           | V           | สังเกต; สำรวจ         | Notice; Examine         |
-| sPrepading         | V/N      | การกระจาย; การแพร่  | Dispersing; Expansion   |
-| both              | Det     | ทั้งสอง               | The two; Both           |
-| whereas           | Conj    | ในขณะที่              | While; On the other hand |
-| heavier           | Adj      | หนักกว่า              | More weighty; Bulkier   |
-| sink              | V/N      | จม; อ่าว              | Descend; Basin          |
-| allow             | V           | อนุญาต; ให้           | Permit; Enable          |
-| get through       | V           | ผ่าน; เข้าใจ          | Pass; Understand        |
-| thermal conductor | N           | ตัวนำความร้อน        | Material conducts heat  |
-| metals            | N           | โลหะ                  | Metallic substances     |
-| iron              | N           | เหล็ก                 | Metallic element        |
-| copper            | N           | ทองแดง                | Metallic element        |
-| tin               | N           | ดีบุก                 | Metallic element        |
-| aluminium         | N           | อลูมิเนียม            | Metallic element        |
-| insulator         | N           | ตัวไม่นำไฟฟ้า        | Material insulates      |
-| wood              | N           | ไม้                    | Plant material          |
-| plastic           | N           | พลาสติก               | Synthetic material      |
-| fiber             | N           | ไฟเบอร์               | Thread-like material    |
-| investigate       | V           | สอบสวน; ตรวจสอบ      | Examine; Research       |
-| information       | N           | ข้อมูล                | Data; Facts             |
-| apply             | V           | ใช้; ประยุกต์         | Utilize; Implement      |
-| pot               | N           | กระทะ                 | Container; Cooking pot  |
-| pan               | N           | กระทะ                 | Cooking pan             |
-| Ud                | N           | อุณหภูมิ             | Temperature             |
-| kinetic energy    | N           | พลวัต                  | Energy of motion        |
-| shake             | V/N      | สั่น; การสั่น          | Tremble; Shaking        |
-| absorbs           | V           | ดูดซับ                | Soak up; Take in        |
-| depending         | Prep   | ขึ้นอยู่กับ           | Conditional on; Reliant upon |
-| noticed           | V           | สังเกต; รับทราบ       | Perceived; Acknowledged |
-| comfortable       | Adj      | สบาย; ปลอดภัย         | Cozy; Easeful           |
-| comparing         | V           | เปรียบเทียบ           | Contrasting; Evaluating |
-| wear              | V/N      | สวมใส่; การสวมใส่    | Put on; Clothing        |
-| smooth            | Adj      | ราบ; เรียบ            | Even; Unblemished       |
-| shiny             | Adj      | สดใส; วาว            | Glossy; Bright           |
-| rough             | Adj      | หยาบ; หยาบช rough   | Coarse; Uneven          |
-| appliances        | N           | เครื่องใช้ไฟฟ้า        | Devices; Gadgets        |
-| radiant           | Adj/N | แผ่ว; แสงสว่าง         | Emitting; Brightness    |
-| reflect           | V           | สะท้อน; ประกอบ        | Bounce off; Mirror      |
-| melting           | V/N      | หลอมละลาย; การหลอม    | Dissolve; Melting       |
-| melting point     | N           | จุดหลอมละลาย          | Temperature of melting  |
-| boiling point     | N           | จุดเดือด              | Temperature of boiling  |
-| flake ice         | N           | น้ำแข็งแผ่น           | Thin ice; Flake ice     |
-| candle            | N           | เทียน                  | Wax candle              |
-| record            | V/N      | บันทึก; บันทึกระเบียน | Document; Achievement   |
-| glass tube        | N           | ท่อแก้ว               | Tubing; Glassware       |
-| stir              | V           | คน; การคน              | Mix; Stirring           |
-| while             | N/Conj | ขณะ; ในขณะที่       | Period; Meanwhile       |
-| bubble            | N/V      | ฟอง; เบลอ              | Air bubble; Bubble      |
-| vaporising        | V           | การอบสูญ              | Evaporating; Vaporization|
-| heat transferring | N/V      | การส่งโอนความร้อน     | Heat transmission; Conduction |
-| amount            | N           | ปริมาณ                | Quantity; Volume        |
-| status            | N           | สถานะ                  | Condition; Status       |
-| transfer          | V/N      | ถ่ายโอน; การถ่ายโอน  | Move; Transference      |
-| warm up           | V/Adj | อุ่น; ทำให้อุ่นขึ้น    | Heat; Increase warmth   |
-| particle          | N           | อนุภาค                | Atom; Particle          |
-| model             | N/V      | แบบ; จำลอง            | Design; Imitate         |
-| matter            | N           | สาร                   | Substance; Material     |
-| sPrepad apart      | V           | กระจายออก             | Disperse; Separate      |
-| expect            | V           | คาดหวัง               | Anticipate; Await       |
-| contract          | V           | ลด; สัญญา              | Reduce; Agreement       |
-| conical flask     | N           | กระติกทรงกรวย        | Conical container       |
-| liquid nitrogen   | N           | ไนโตรเจนเหลว           | Liquid form of nitrogen |
-| blow up           | V/Phr   | ระเบิด; พองขึ้น        | Explode; Inflate        |
-| several           | Det    | หลาย; รวมกัน           | Many; Various           |
-| stretch           | V/N      | ยืด; การยืด           | Extend; Stretching      |
-| basin             | N           | อ่างล้าง               | Sink; Basin             |
-| inflated          | Adj      | พองขึ้น; ปูน          | Swollen; Puffed up      |
-| slightly          | Adv         | เล็กน้อย               | A little; Slightly      |
-| shrinking         | V/Adj | หด; การหด               | Contract; Shrinking     |
-| expansion         | N           | การขยายออก            | Enlargement; Expansion  |
-| magnitude         | N           | ขนาด                  | Extent; Magnitude       |
-| tend to           | V           | มีแนวโน้ม             | Incline towards; Lean to |
-| causing           | V           | ทำให้เกิด             | Inducing; Bringing about |
-| farthest apart    | Adj/Adv | ห่างที่สุด           | Furthest distance apart |
-| independent variable | N      | ตัวแปรอิสระ           | Variable not influenced |
-| dependent variable   | N      | ตัวแปรตาม             | Variable that changes   |
-| control variable     | N      | ตัวแปรควบคุม          | Variable held constant  |
-| kind of           | Adj/Phr | ชนิด                  | Sort of; Type of        |
-| duration          | N           | ระยะเวลา              | Length of time          |
-| conclude          | V           | สรุป                   | Deduce; Conclude        |
-| thermal radiant   | Adj/N | รังสีความร้อน         | Emitting heat; Radiation |
-| quantity          | N           | ปริมาณ                | Amount; Quantity        |
-| heat of fusion   | N           | ความร้อนขณะกว้าง      | Heat required for fusion |
-| heat of steam    | N           | ความร้อนของไอน้ำ      | Heat required for vaporization |
-| cover            | V/N      | ครอบ; ปกปิด           | Shield; Lid             |
+Here's a chart with the provided words:
+
+| Vocabulary           | Part of Speech | Thai Meaning        | English Meaning                          |
+|----------------------|----------------|---------------------|------------------------------------------|
+| Whereas             | Conjunction    | ในขณะที่          | While; On the other hand                |
+| Heavier             | Adjective      | หนักกว่า           | More weighty; Bulkier                   |
+| Sink                | Verb/Noun      | จม; อ่าว           | Descend; Basin                          |
+| Allow               | Verb           | อนุญาต; ให้       | Permit; Enable                          |
+| Get through         | Verb           | ผ่าน; เข้าใจ       | Pass; Understand                        |
+| Thermal conductor   | Noun           | ตัวนำความร้อน     | Material conducts heat                  |
+| Metals              | Noun           | โลหะ                | Metallic substances                     |
+| Iron                | Noun           | เหล็ก               | Metallic element                        |
+| Copper Tin          | Noun           | ทองแดง ดีบุก      | Metallic elements                       |
+| Aluminium           | Noun           | อลูมิเนียม          | Metallic element                        |
+| Insulator           | Noun           | ตัวไม่นำไฟฟ้า      | Material insulates                      |
+| Wood                | Noun           | ไม้                  | Plant material                          |
+| Plastic             | Noun           | พลาสติก             | Synthetic material                      |
+| Fiber               | Noun           | ไฟเบอร์             | Thread-like material                    |
+| Investigate         | Verb           | สอบสวน; ตรวจสอบ   | Examine; Research                       |
+| Information         | Noun           | ข้อมูล              | Data; Facts                             |
+| Apply               | Verb           | ใช้; ประยุกต์     | Utilize; Implement                      |
+| Pot                 | Noun           | กระทะ               | Container; Cooking pot                  |
+| Pan                 | Noun           | กระทะ               | Cooking pan                             |
+| Ud                  | Noun           | อุณหภูมิ           | Temperature                             |
+| Kinetic energy      | Noun           | พลวัต                | Energy of motion                        |
+| Shake               | Verb/Noun      | สั่น; การสั่น       | Tremble; Shaking                        |
+| Absorbs             | Verb           | ดูดซับ              | Soak up; Take in                        |
+| Depending           | Preposition   | ขึ้นอยู่กับ         | Conditional on; Reliant upon            |
+| Noticed             | Verb           | สังเกต; รับทราบ    | Perceived; Acknowledged                 |
+| Comfortable         | Adjective      | สบาย; ปลอดภัย      | Cozy; Easeful                           |
+| Comparing           | Verb           | เปรียบเทียบ         | Contrasting; Evaluating                 |
+| Wear                | Verb/Noun      | สวมใส่; การสวมใส่ | Put on; Clothing                        |
+| Smooth              | Adjective      | ราบ; เรียบ          | Even; Unblemished                       |
+| Shiny               | Adjective      | สดใส; วาว          | Glossy; Bright                          |
+| Rough               | Adjective      | หยาบ; หยาบช        | Coarse; Uneven                          |
+| Appliances          | Noun           | เครื่องใช้ไฟฟ้า     | Devices; Gadgets                        |
+| Radiant             | Adjective/Noun | แผ่ว; แสงสว่าง      | Emitting; Brightness                    |
+| Reflect             | Verb           | สะท้อน; ประกอบ     | Bounce off; Mirror                      |
+| Melting             | Verb/Noun      | หลอมละลาย; การหลอม | Dissolve; Melting                       |
+| Melting point       | Noun           | จุดหลอมละลาย       | Temperature of melting                  |
+| Boiling point       | Noun           | จุดเดือด            | Temperature of boiling                  |
+| Flake ice           | Noun           | น้ำแข็งแผ่น         | Thin ice; Flake ice                     |
+| Candle              | Noun           | เทียน                | Wax candle                              |
+| Record              | Verb/Noun      | บันทึก; บันทึกระเบียน | Document; Achievement               |
+| Glass tube          | Noun           | ท่อแก้ว             | Tubing; Glassware                       |
+| Stir                | Verb           | คน; การคน            | Mix; Stirring                           |
+| While               | Noun/Conjunction | ขณะ; ในขณะที่    | Period; Meanwhile                       |
+| Bubble              | Noun/Verb      | ฟอง; เบลอ            | Air bubble; Bubble                      |
+| Vaporising          | Verb           | การอบสูญ            | Evaporating; Vaporization               |
+| Heat transferring   | Noun/Verb      | การส่งโอนความร้อน  | Heat transmission; Conduction           |
+| Amount              | Noun           | ปริมาณ              | Quantity; Volume                        |
+| Status              | Noun           | สถานะ                | Condition; Status                       |
+| Transfer            | Verb/Noun      | ถ่ายโอน; การถ่ายโอน | Move; Transference                      |
+| Warm up             | Verb/Adjective | อุ่น; ทำให้อุ่นขึ้น | Heat; Increase warmth                   |
+| Particle            | Noun           | อนุภาค              | Atom; Particle                          |
+| Model               | Noun/Verb      | แบบ; จำลอง          | Design; Imitate                         |
+| Matter              | Noun           | สาร                 | Substance; Material                     |
+| Spread apart        | Verb           | กระจายออก           | Disperse; Separate                      |
+| Expect              | Verb           | คาดหวัง             | Anticipate; Await                       |
+| Contract            | Verb           | ลด; สัญญา            | Reduce; Agreement                       |
+| Con
+
+ical flask       | Noun           | กระติกทรงกรวย      | Conical container                       |
+| Liquid nitrogen     | Noun           | ไนโตรเจนเหลว         | Liquid form of nitrogen                 |
+| Blow up             | Verb/Phrasal   | ระเบิด; พองขึ้น     | Explode; Inflate                        |
+| Several             | Determiner    | หลาย; รวมกัน        | Many; Various                           |
+| Stretch             | Verb/Noun      | ยืด; การยืด         | Extend; Stretching                      |
+| Basin               | Noun           | อ่างล้าง             | Sink; Basin                             |
+| Inflated            | Adjective      | พองขึ้น; ปูน        | Swollen; Puffed up                      |
+| Slightly            | Adverb         | เล็กน้อย             | A little; Slightly                      |
+| Shrinking           | Verb/Adjective | หด; การหด            | Contract; Shrinking                     |
+| Expansion           | Noun           | การขยายออก          | Enlargement; Expansion                  |
+| Magnitude           | Noun           | ขนาด                | Extent; Magnitude                       |
+| Tend to             | Verb           | มีแนวโน้ม           | Incline towards; Lean to                |
+| Causing             | Verb           | ทำให้เกิด           | Inducing; Bringing about                |
+| Farthest apart      | Adjective/Adverb | ห่างที่สุด        | Furthest distance apart                 |
+| Independent variable | Noun         | ตัวแปรอิสระ         | Variable not influenced                 |
+| Dependent variable   | Noun         | ตัวแปรตาม           | Variable that changes                   |
+| Control variable     | Noun         | ตัวแปรควบคุม        | Variable held constant                  |
+| Kind of             | Adjective/Phrase | ชนิด                | Sort of; Type of                        |
+| Duration            | Noun           | ระยะเวลา             | Length of time                          |
+| Conclude            | Verb           | สรุป                 | Deduce; Conclude                        |
+| Thermal radiant     | Adjective/Noun | รังสีความร้อน       | Emitting heat; Radiation                |
+| Quantity            | Noun           | ปริมาณ               | Amount; Quantity                        |
+| Heat of fusion      | Noun           | ความร้อนขณะกว้าง  | Heat required for fusion                |
+| Heat of steam       | Noun           | ความร้อนของไอน้ำ   | Heat required for vaporization           |
+| Cover               | Noun/Verb      | ครอบ; ปกปิด         | Shield; Lid                             |
+| Components          | Noun           | ส่วนประกอบ           | Parts; Elements                         |
+| Layers              | Noun           | ชั้น                 | Strata; Levels                          |
+| Atmosphere          | Noun           | บรรยากาศ            | Air; Surrounding gases                  |
+| Weather             | Noun           | สภาพอากาศ           | Climate conditions; Atmospheric state   |
+| Meteorological      | Adjective      | เมื่องานด้านอุตุนิยม | Pertaining to meteorology               |
+| Meteorology         | Noun           | วิทยาอุตุนิยม      | Study of weather                        |
+| Phenomena           | Noun           | ปรากฏการณ์          | Events; Occurrences                     |
+| Weather Forecasts   | Noun           | พยากรณ์อากาศ       | Predictions about weather               |
+| Necessary           | Adjective      | จำเป็น               | Essential; Required                     |
+| Living Creatures    | Noun           | สิ่งมีชีวิต         | Living organisms                        |
+| Therefore           | Adverb         | ดังนั้น              | Consequently; For that reason           |
+| Climate change      | Noun           | การเปลี่ยนแปลงสภาพอากาศ | Alteration in climate conditions   |
+| Process             | Noun           | กระบวนการ
+
+            | Procedure; Sequence                    |
+| Substance           | Noun           | สาร                   | Material; Substance                    |
+| Living things       | Noun           | สิ่งมีชีวิต         | Organisms; Life forms                   |
+| Weight              | Noun           | น้ำหนัก              | Mass; Heaviness                         |
+| Existence           | Noun           | การมีอยู่           | Being; Presence                         |
+| Touched             | Verb           | สัมผัส               | Contacted; Felt                         |
+| Five Senses         | Noun           | ห้าอวัยวะ           | Sight, Hearing, Taste, Touch, Smell     |
+| Ground              | Noun           | พื้น                 | Earth's surface; Base                   |
+| Vapour              | Noun           | ไอน้ำ                | Steam; Vapor                            |
+| Smoke               | Noun           | ควัน                 | Fumes; Smoke                            |
+| Dust                | Noun           | ฝุ่น                 | Fine particles; Dust                    |
+| Ratio               | Noun           | อัตราส่วน            | Proportion; Ratio                       |
+| Increasing          | Adjective/Verb | เพิ่มขึ้น            | Rising; Growing                         |
+| Decreasing          | Adjective/Verb | ลดลง                 | Declining; Decreasing                   |
+| Affect              | Verb           | มีผลต่อ              | Influence; Impact                       |
+| Suitable            | Adjective      | เหมาะสม               | Appropriate; Fit                        |
+| Global Warming      | Noun           | การกำเนิดโลกอุณหภูมิ | Rise in Earth's temperature           |
+| Green House Effect  | Noun           | ผลกระทบเกี่ยวกับโรงเรือนกระจก | Warming due to greenhouse gases      |
+| Similar             | Adjective      | คล้ายกัน             | Alike; Comparable                       |
+| Different           | Adjective      | ต่างกัน             | Dissimilar; Unlike                      |
+| Whereas             | Conjunction    | ในขณะที่            | While; On the other hand                |
+| Dirtiness           | Noun
