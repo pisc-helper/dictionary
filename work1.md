@@ -3,7 +3,8 @@
 | above             | Preposition    | ติดอยู่ด้านบน        | Higher than; Over      |
 | needs             | Noun/Verb      | ความต้องการ/ต้องการ | Requirements/Necessitates |
 | unmoving          | Adjective      | นิ่งไม่เคลื่อนไหว     | Stationary; Still       |
-| medium            | Noun/Adjective | สื่อ; ปริมาณกลาง      | Substance; Average      |
+| medium            | Noun/Adjective | สื่อ; ปริมาณกลาง    | Substance; Average      |
+| through           | Preposition/Adverb | ผ่าน      | Moving from one side to another;    |
 | potassium permanganate | Noun  | โพแทสเซียมเพอร์มางเนต | Chemical compound      |
 | fill              | Verb           | เติม; ช่วยเติม       | Occupy; Complete        |
 | around            | Adverb/Preposition | รอบ ๆ; ใกล้ๆ       | Surrounding; Nearby     |
@@ -55,4 +56,40 @@
 | stir              | Verb           | คน; การคน              | Mix; Stirring           |
 | while             | Noun/Conjunction | ขณะ; ในขณะที่       | Period; Meanwhile       |
 | bubble            | Noun/Verb      | ฟอง; เบลอ              | Air bubble; Bubble      |
-| vaporising        | Verb           | การอบสูญ              | Evaporating; Vaporization
+| vaporising        | Verb           | การอบสูญ              | Evaporating; Vaporization|
+| heat transferring | Noun/Verb      | การส่งโอนความร้อน     | Heat transmission; Conduction |
+| amount            | Noun           | ปริมาณ                | Quantity; Volume        |
+| status            | Noun           | สถานะ                  | Condition; Status       |
+| transfer          | Verb/Noun      | ถ่ายโอน; การถ่ายโอน  | Move; Transference      |
+| warm up           | Verb/Adjective | อุ่น; ทำให้อุ่นขึ้น    | Heat; Increase warmth   |
+| particle          | Noun           | อนุภาค                | Atom; Particle          |
+| model             | Noun/Verb      | แบบ; จำลอง            | Design; Imitate         |
+| matter            | Noun           | สาร                   | Substance; Material     |
+| spread apart      | Verb           | กระจายออก             | Disperse; Separate      |
+| expect            | Verb           | คาดหวัง               | Anticipate; Await       |
+| contract          | Verb           | ลด; สัญญา              | Reduce; Agreement       |
+| conical flask     | Noun           | กระติกทรงกรวย        | Conical container       |
+| liquid nitrogen   | Noun           | ไนโตรเจนเหลว           | Liquid form of nitrogen |
+| blow up           | Verb/Phrasal   | ระเบิด; พองขึ้น        | Explode; Inflate        |
+| several           | Determiner    | หลาย; รวมกัน           | Many; Various           |
+| stretch           | Verb/Noun      | ยืด; การยืด           | Extend; Stretching      |
+| basin             | Noun           | อ่างล้าง               | Sink; Basin             |
+| inflated          | Adjective      | พองขึ้น; ปูน          | Swollen; Puffed up      |
+| slightly          | Adverb         | เล็กน้อย               | A little; Slightly      |
+| shrinking         | Verb/Adjective | หด; การหด               | Contract; Shrinking     |
+| expansion         | Noun           | การขยายออก            | Enlargement; Expansion  |
+| magnitude         | Noun           | ขนาด                  | Extent; Magnitude       |
+| tend to           | Verb           | มีแนวโน้ม             | Incline towards; Lean to |
+| causing           | Verb           | ทำให้เกิด             | Inducing; Bringing about |
+| farthest apart    | Adjective/Adverb | ห่างที่สุด           | Furthest distance apart |
+| independent variable | Noun      | ตัวแปรอิสระ           | Variable not influenced |
+| dependent variable   | Noun      | ตัวแปรตาม             | Variable that changes   |
+| control variable     | Noun      | ตัวแปรควบคุม          | Variable held constant  |
+| kind of           | Adjective/Phrase | ชนิด                  | Sort of; Type of        |
+| duration          | Noun           | ระยะเวลา              | Length of time          |
+| conclude          | Verb           | สรุป                   | Deduce; Conclude        |
+| thermal radiant   | Adjective/Noun | รังสีความร้อน         | Emitting heat; Radiation |
+| quantity          | Noun           | ปริมาณ                | Amount; Quantity        |
+| heat of fusion   | Noun           | ความร้อนขณะกว้าง      | Heat required for fusion |
+| heat of steam    | Noun           | ความร้อนของไอน้ำ      | Heat required for vaporization |
+| cover            | Verb/Noun      | ครอบ; ปกปิด           | Shield; Lid             |
