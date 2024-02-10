@@ -1,13 +1,13 @@
 | Vocabulary        | Part of Speech | Thai Meaning           | English Meaning        |
 |-------------------|----------------|------------------------|------------------------|
-| above             | Prepposition    | ติดอยู่ด้านบน        | Higher than; Over      |
+| above             | Prep    | ติดอยู่ด้านบน        | Higher than; Over      |
 | needs             | N/V      | ความต้องการ/ต้องการ | Requirements/Necessitates |
 | unmoving          | Adj      | นิ่งไม่เคลื่อนไหว     | Stationary; Still       |
 | medium            | N/Adj | สื่อ; ปริมาณกลาง    | Substance; Average      |
-| through           | Prepposition/AdV | ผ่าน      | Moving from one side to another;    |
+| through           | Prep/Adv | ผ่าน      | Moving from one side to another;    |
 | potassium permanganate | N  | โพแทสเซียมเพอร์มางเนต | Chemical compound      |
 | fill              | V           | เติม; ช่วยเติม       | Occupy; Complete        |
-| around            | AdV/Prepposition | รอบ ๆ; ใกล้ๆ       | Surrounding; Nearby     |
+| around            | Adv/Prep | รอบ ๆ; ใกล้ๆ       | Surrounding; Nearby     |
 | observe           | V           | สังเกต; สำรวจ         | Notice; Examine         |
 | sPrepading         | V/N      | การกระจาย; การแพร่  | Dispersing; Expansion   |
 | both              | Det     | ทั้งสอง               | The two; Both           |
@@ -35,7 +35,7 @@
 | kinetic energy    | N           | พลวัต                  | Energy of motion        |
 | shake             | V/N      | สั่น; การสั่น          | Tremble; Shaking        |
 | absorbs           | V           | ดูดซับ                | Soak up; Take in        |
-| depending         | Prepposition   | ขึ้นอยู่กับ           | Conditional on; Reliant upon |
+| depending         | Prep   | ขึ้นอยู่กับ           | Conditional on; Reliant upon |
 | noticed           | V           | สังเกต; รับทราบ       | Perceived; Acknowledged |
 | comfortable       | Adj      | สบาย; ปลอดภัย         | Cozy; Easeful           |
 | comparing         | V           | เปรียบเทียบ           | Contrasting; Evaluating |
@@ -75,13 +75,13 @@
 | stretch           | V/N      | ยืด; การยืด           | Extend; Stretching      |
 | basin             | N           | อ่างล้าง               | Sink; Basin             |
 | inflated          | Adj      | พองขึ้น; ปูน          | Swollen; Puffed up      |
-| slightly          | AdV         | เล็กน้อย               | A little; Slightly      |
+| slightly          | Adv         | เล็กน้อย               | A little; Slightly      |
 | shrinking         | V/Adj | หด; การหด               | Contract; Shrinking     |
 | expansion         | N           | การขยายออก            | Enlargement; Expansion  |
 | magnitude         | N           | ขนาด                  | Extent; Magnitude       |
 | tend to           | V           | มีแนวโน้ม             | Incline towards; Lean to |
 | causing           | V           | ทำให้เกิด             | Inducing; Bringing about |
-| farthest apart    | Adj/AdV | ห่างที่สุด           | Furthest distance apart |
+| farthest apart    | Adj/Adv | ห่างที่สุด           | Furthest distance apart |
 | independent variable | N      | ตัวแปรอิสระ           | Variable not influenced |
 | dependent variable   | N      | ตัวแปรตาม             | Variable that changes   |
 | control variable     | N      | ตัวแปรควบคุม          | Variable held constant  |
